@@ -1,13 +1,13 @@
 # vehicle-classification
 Classify vehicles in images from GTA-5
 # STEP 0: Clone
-0.a) Clone the repository in your local computer
-0.b) Add trainval and test folders in the vehicle-classification folder
+0.a) Clone the repository in your local computer<br />
+0.b) Add trainval and test folders in the vehicle-classification folder<br />
 # STEP 1: Reorganize Training data
-1.a) Make an empty folder "train" with subfolders "0", "1", and "2"
-1.b) Run change_folder_structure code to reorganize training data into the train folder
+1.a) Make an empty folder "train" with subfolders "0", "1", and "2"<br />
+1.b) Run change_folder_structure code to reorganize training data into the train folder<br />
 # STEP 2: Train AI
-2.a) Run the vehicle classification code
+2.a) Run the vehicle classification code<br />
 
-The required .csv file should be generated in the test folder.
+The required .csv file should be generated in the test folder.<br />
 
