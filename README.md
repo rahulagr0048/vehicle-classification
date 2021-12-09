@@ -10,5 +10,5 @@ Classify vehicles in images from GTA-5
 # STEP 3: Classify images
 3.a) Run classify.py 
 
-<b>The required .csv file should be generated in the test</b> folder.<br />
+<b>The required .csv file should be generated in the test folder.</b><br />
 
