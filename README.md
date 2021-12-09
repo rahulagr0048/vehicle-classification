@@ -6,7 +6,7 @@ Classify vehicles in images from GTA-5
 # STEP 2: Setup environment
 1.a) Change directory to the vehicle-classification folder in command line<br />
 1.b) Run the command<br />
-'''pip install -r requirements.txt'''
+```pip install -r requirements.txt```
 # STEP 2: Classify images
 2.a) Run classify.py 
 
