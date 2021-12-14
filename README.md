@@ -17,5 +17,5 @@ Classify vehicles in images from GTA-5
 2) train.ipynb loads the training data, trains the CNN model and saves it to saved_model <br/>
 3) classify.py loads the saved CNN model, and classifies images in test data <br/>
 
-Alternates folder contains the code of other methods that were tried. </br>
+Alternates folder contains the codes of other methods that were tried. </br>
 
