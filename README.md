@@ -1,5 +1,5 @@
 # vehicle-classification
-Classify vehicles in images from GTA-5
+Classify vehicles in images from GTA-5 using CNN
 # STEP 1: Clone
 1.a) Clone the repository in your local computer<br />
 1.b) Add test folder in the vehicle-classification folder<br />
